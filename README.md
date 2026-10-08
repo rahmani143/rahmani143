@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💫 About Me:
+### Core Software & Computer Science Foundations<br><br>* **Languages:** C++, Python, SQL, Embedded C, Bash, Verilog HDL, MicroPython, HTML, CSS, and SAP ABAP.<br><br><br>* **Systems & CS Concepts:** Data Structures & Algorithms, Systems Programming, Computer Architecture, Linux Kernel basics, Systems Design, Concurrency, and Multithreading.<br><br><br>* **Engineering Practices:** Test-driven development, code reviews, logic simulation, defect root-cause analysis (RCA), and Agile methodologies.<br><br><br><br>---<br><br>### Embedded Systems, Robotics & Hardware<br><br>* **Platforms & Protocols:** Arduino, Raspberry Pi Pico, ESP32/ESP-01, Siemens S7-1200 PLCs, and UART/SPI/I2C interfaces.<br><br><br>* **Firmware & Control Projects:**<br>* **Eco Mender Bot (e-Yantra):** Programmed C/C++ FSM state logic and PWM motor control, reducing response latency by 20%.<br><br><br>* **Automatic Following Luggage:** Designed C/C++ sensor-feedback loops using ultrasonic, GPS, and Bluetooth modules for real-time tracking.<br><br><br>* **Automated Guided Vehicle:** Implemented mecanum-wheel kinematic control algorithms in C++.<br><br><br><br><br>* **Automation & Circuit Design:** Siemens TIA Portal PLC programming, ModelSim logic simulation, and Quartus Prime Lite.<br><br><br><br>---<br><br>### Computer Vision & Edge AI<br><br>* **Drishti OS (Open Source):** Built real-time Linux vision pipelines integrating YOLOv8, ArcFace facial recognition, and RapidOCR.<br><br><br>* **Custom Object Detection:** Trained custom weapon detection models achieving 95% $mAP_{50}$ under variable lighting.<br><br><br>* **Edge Optimization:** Profiled memory bandwidth to cut inference latency by 50% (300ms to 150ms) while capping RAM at 2GB.<br><br><br><br>---<br><br>### Agentic AI & Multimodal Systems<br><br>* **AI WhatsApp Assistant:** Built asynchronous Python pipelines using batched LLM calls, RapidOCR, Faster-Whisper, TF-IDF evidence mining, and Gemini reflection loops.<br><br><br>* **Brother Task Scheduler:** Developed voice command parsing using Google Agent Development Kit (ADK), ASAP/ALAP heuristics, and persistent SQLite storage.<br><br><br>* **DocReviver (GDG Agentathon):** Architected FastAPI/WebSocket backends and Pydantic event layers for real-time AI agent telemetry.<br><br><br><br>---<br><br>### Cloud, Data & Systems Engineering<br><br>* **KFUPM Research Internship:** Engineered asynchronous Python ingestion pipelines for hyperspectral datasets, cutting runtime exceptions by 30% and boosting throughput by 15%.<br><br><br>* **Data Processing & Automation:** Built streaming load forecasting pipelines using Pathway (Rust) and automated CAD data extraction for railway relay analysis.<br><br><br>* **Cloud & DevOps:** Hands-on experience with AWS, Docker, Kubernetes, microservices, REST APIs, Git CI/CD, and SAP BTP/ABAP RAP frameworks.
 
-<!--
-**rahmani143/rahmani143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ibrahim-azeem) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bss10i19ibrahimazeem@gmail.com ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=rahmani143&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=rahmani143&theme=blue-green&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahmani143&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rahmani143&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rahmani143&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=rahmani143&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
