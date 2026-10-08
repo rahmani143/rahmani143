@@ -1,40 +1,12 @@
 # 💫 About Me
 
-### Core Software & Computer Science Foundations
-* **Languages:** C++, Python, SQL, Embedded C, Bash, Verilog HDL, MicroPython, HTML, CSS, SAP ABAP
-* **Systems & CS Concepts:** Data Structures & Algorithms, Systems Programming, Computer Architecture, Linux Kernel basics, Systems Design, Concurrency, Multithreading
-* **Engineering Practices:** Test-driven development, code reviews, logic simulation, defect root-cause analysis (RCA), Agile methodologies
+| 💻 Software & Systems | 🤖 Embedded & Robotics |
+| :--- | :--- |
+| **Languages:** C++, Python, SQL, Embedded C, Bash, Verilog, SAP ABAP <br> **CS Concepts:** DSA, Systems Design, Concurrency, Linux Kernel, Computer Architecture <br> **Practices:** TDD, Code Reviews, RCA, Agile | **Hardware:** ESP32, Raspberry Pi Pico, Arduino, Siemens S7-1200 PLC, UART/SPI/I2C <br> **Projects:** Eco Mender Bot (FSM/PWM), Following Luggage (Feedback loops), Mecanum AGV <br> **Tools:** Siemens TIA Portal, ModelSim, Quartus |
 
----
-
-### Embedded Systems, Robotics & Hardware
-* **Platforms & Protocols:** Arduino, Raspberry Pi Pico, ESP32/ESP-01, Siemens S7-1200 PLCs, UART/SPI/I2C
-* **Firmware & Control Projects:**
-  * **Eco Mender Bot (e-Yantra):** Programmed C/C++ FSM state logic and PWM motor control, reducing response latency by 20%
-  * **Automatic Following Luggage:** Designed C/C++ sensor-feedback loops using ultrasonic, GPS, and Bluetooth modules for real-time tracking
-  * **Automated Guided Vehicle:** Implemented mecanum-wheel kinematic control algorithms in C++
-* **Automation & Circuit Design:** Siemens TIA Portal PLC programming, ModelSim logic simulation, Quartus Prime Lite
-
----
-
-### Computer Vision & Edge AI
-* **Drishti OS (Open Source):** Built real-time Linux vision pipelines integrating YOLOv8, ArcFace facial recognition, and RapidOCR
-* **Custom Object Detection:** Trained custom weapon detection models achieving 95% mAP50 under variable lighting
-* **Edge Optimization:** Profiled memory bandwidth to cut inference latency by 50% (300ms to 150ms) while capping RAM at 2GB
-
----
-
-### Agentic AI & Multimodal Systems
-* **AI WhatsApp Assistant:** Built asynchronous Python pipelines using batched LLM calls, RapidOCR, Faster-Whisper, TF-IDF evidence mining, and Gemini reflection loops
-* **Brother Task Scheduler:** Developed voice command parsing using Google Agent Development Kit (ADK), ASAP/ALAP heuristics, and persistent SQLite storage
-* **DocReviver (GDG Agentathon):** Architected FastAPI/WebSocket backends and Pydantic event layers for real-time AI agent telemetry
-
----
-
-### Cloud, Data & Systems Engineering
-* **KFUPM Research Internship:** Engineered asynchronous Python ingestion pipelines for hyperspectral datasets, cutting runtime exceptions by 30% and boosting throughput by 15%
-* **Data Processing & Automation:** Built streaming load forecasting pipelines using Pathway (Rust) and automated CAD data extraction for railway relay analysis
-* **Cloud & DevOps:** Hands-on experience with AWS, Docker, Kubernetes, microservices, REST APIs, Git CI/CD, SAP BTP/ABAP RAP frameworks
+| 👁️ Vision & Edge AI | 🤖 Agentic AI & Cloud |
+| :--- | :--- |
+| **Drishti OS:** Real-time Linux vision pipelines (YOLOv8, ArcFace, RapidOCR) <br> **Object Detection:** Trained custom detection models reaching 95% mAP50 <br> **Edge Optimization:** Reduced latency by 50% (300ms to 150ms) capping RAM at 2GB | **WhatsApp AI Assistant:** Asynchronous LLM routing, Faster-Whisper, Gemini loops <br> **Brother Scheduler:** Voice parsing via Google ADK & ASAP/ALAP heuristics <br> **Data & Cloud:** KFUPM ingestion pipelines (+15% throughput), AWS, Docker, Kubernetes |
 
 ---
 
